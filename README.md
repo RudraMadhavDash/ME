@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra</h1>
-<h3 align="center">Junior .NET Developer | Future Data Engineer 🚀</h3>
+<h3 align="center">.NET Developer | Future Data Engineer 🚀</h3>
 
 ---
 
@@ -21,13 +21,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### 🔥 Current Focus
 - Mastering Backend Development
@@ -35,7 +30,3 @@
 - Building Real-World Projects
 
 ---
-
-### 📫 Connect With Me
-- LinkedIn: [Add link]
-- Email: [Add email]
