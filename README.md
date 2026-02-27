@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rudra</h1>
 <h3 align="center">Junior .NET Developer | Future Data Engineer 🚀</h3>
 
 ---
